@@ -44,7 +44,7 @@ This view presents the following fields:
 - Date - which day to place the item on
 - Time - what is the deadline / what time does the exam/custom event start
 
-Pressing the add button on the bottom right of the panel returns the user back to the calendar view and adds the item to the shared calendar, so that all the users can see and access it. Pressing the cancel button on the bottom right simply returns the user to the calendar view, and no items are added to the calendar.
+Pressing the add button on the bottom right of the panel returns the user back to the calendar view and adds the item to the shared calendar, so that all the users can see and access it. Pressing the cancel button on the bottom left simply returns the user to the calendar view, and no items are added to the calendar.
 
 Pressing the menu button on the top left opens the preferences view:
 
