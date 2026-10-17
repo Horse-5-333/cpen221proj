@@ -1,3 +1,10 @@
+### Solution Specification
+We envision a mobile-focused webapp that gives UBC courses their own community course calendars holding assignment deadlines, exams, and other important course dates. Students select the courses they’re enrolled in and see all of their dates together in a single calendar. This aggregates information that is usually spread out over several platforms into one place for students’ peace of mind, relieving stress that could come with feeling like they may be missing some crucial date on some platform they haven’t checked in a while. Our planned minimally viable product will support a fixed set of common winter semester, second-year, CPEN courses, from which students filter the ones they are taking.
+
+The course calendar starts preloaded with initially available info that is usually on a syllabus, but uses a crowdsourcing feature to update and add new dates to the calendar, like a final exam date. Students in a course can submit updates to the calendar, which modify the course calendar instantly and show up to others in the same course. This way, our webapp will enable students to keep each other informed and up to date on course dates.
+
+Students can also add custom events to a course calendar, such as to call for a group study session. A custom event also includes the purpose, location, and timing of the event. For example, a student could post about wanting to start a group study session for an upcoming final exam, where members review and provide feedback to each other’s work. Other students can see these events and flag events that they are interested in joining. This student-to-student environment helps students find others to study with, which is especially valuable near exam periods or assignment deadlines.
+
 The interface is simple and intuitive. The main screen is the calendar view:
 
 ![calendar view](mockups/main-view.png)
